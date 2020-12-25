@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/Lakaters-React/static/js/main.afb8379d.chunk.js",
+    "main.js.map": "/Lakaters-React/static/js/main.afb8379d.chunk.js.map",
+    "runtime-main.js": "/Lakaters-React/static/js/runtime-main.f481ec39.js",
+    "runtime-main.js.map": "/Lakaters-React/static/js/runtime-main.f481ec39.js.map",
+    "static/js/2.be974137.chunk.js": "/Lakaters-React/static/js/2.be974137.chunk.js",
+    "static/js/2.be974137.chunk.js.map": "/Lakaters-React/static/js/2.be974137.chunk.js.map",
+    "index.html": "/Lakaters-React/index.html",
+    "precache-manifest.df446adc7eb211f3741da2c0f20dddb0.js": "/Lakaters-React/precache-manifest.df446adc7eb211f3741da2c0f20dddb0.js",
+    "service-worker.js": "/Lakaters-React/service-worker.js",
+    "static/js/2.be974137.chunk.js.LICENSE.txt": "/Lakaters-React/static/js/2.be974137.chunk.js.LICENSE.txt",
+    "static/media/svg-10.svg": "/Lakaters-React/static/media/svg-10.149d436c.svg",
+    "static/media/svg-12.svg": "/Lakaters-React/static/media/svg-12.9e21bccb.svg",
+    "static/media/svg-13.svg": "/Lakaters-React/static/media/svg-13.f0463627.svg",
+    "static/media/svg-5.svg": "/Lakaters-React/static/media/svg-5.8d4fbc44.svg",
+    "static/media/svg-6.svg": "/Lakaters-React/static/media/svg-6.0b3df8a7.svg",
+    "static/media/svg-7.svg": "/Lakaters-React/static/media/svg-7.784bb510.svg",
+    "static/media/svg-8.svg": "/Lakaters-React/static/media/svg-8.1df01d58.svg",
+    "static/media/svg-9.svg": "/Lakaters-React/static/media/svg-9.7befbd53.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f481ec39.js",
+    "static/js/2.be974137.chunk.js",
+    "static/js/main.afb8379d.chunk.js"
+  ]
+}
