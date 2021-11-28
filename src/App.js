@@ -7,6 +7,7 @@ import Webdevelopment from "./pages/Webdevelopment/Webdevelopment";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import { Navbar, Footer } from "./components";
+import Privacy from "./pages/privacy/privacy";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
         <Route path="/" exact component={Home} />
         <Route path="/translation" component={Translation} />
         <Route path="/webdevelopment" component={Webdevelopment} />
+        <Route path="/privacy-policy" exact component={Privacy} />
       </Switch>
       <Footer />
     </Router>
