@@ -10,7 +10,7 @@ import {
   Heading,
   Subtitle,
   ImgWrapper,
-  Img
+  Img,
 } from "../../components/InfoSection/InfoSection.elements";
 
 function CourseSection({
@@ -26,21 +26,23 @@ function CourseSection({
   img,
   alt,
   imgStart,
-  start
+  start,
 }) {
   return (
     <>
       <InfoSec lightBg={true}>
         <Container>
           <TextWrapper style={{ justifyContent: "center", maxWidth: "70%" }}>
-            <Heading lightText={false}>Privacy Policy - Lakaters</Heading>
+            <Heading lightText={false}>Privacy Policy</Heading>
             <Subtitle lightTextDesc={lightTextDesc}>
-              Your privacy is important to us. It is Lakaters' policy to respect
-              your privacy and comply with any applicable law and regulation
+              Your privacy is important to us. It is our policy to respect your
+              privacy and comply with any applicable law and regulation
               regarding any personal information we may collect about you,
-              including across our website, https://lakaters.in/, and other
-              sites we own and operate. This policy is effective as of 28
-              November 2021 and was last updated on 28 November 2021.
+              including across our websites, https://lakaters.in/ and
+              www.laamacademy.com and our applications lakaters and Laam Academy
+              and ww and other sites we own and operate. This policy is
+              effective as of 28 November 2021 and was last updated on 28
+              November 2021.
             </Subtitle>
             <TopLine lightTopLine={lightTopLine}>
               Information We Collect
@@ -213,7 +215,7 @@ function CourseSection({
               contact us using the following details:
             </Subtitle>
             <Subtitle lightTextDesc={lightTextDesc}>
-              Lakaters <br></br> lakaters.hyd@gmail.com
+              Lakaters Business Solusions<br></br> lakaters.hyd@gmail.com
             </Subtitle>
           </TextWrapper>
           {/* </InfoColumn> */}
