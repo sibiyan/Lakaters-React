@@ -40,9 +40,9 @@ function CourseSection({
               regarding any personal information we may collect about you,
               including across our websites, https://lakaters.in/ and
               www.laamacademy.com and our applications lakaters and Laam Academy
-              and ww and other sites we own and operate. This policy is
-              effective as of 28 November 2021 and was last updated on 28
-              November 2021.
+              and other sites and applications we own and operate. This policy
+              is effective as of 28 November 2021 and was last updated on 02
+              June 2022.
             </Subtitle>
             <TopLine lightTopLine={lightTopLine}>
               Information We Collect
